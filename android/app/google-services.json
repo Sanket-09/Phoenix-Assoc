@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692395302373",
+    "project_id": "phoenix-inductions-2021",
+    "storage_bucket": "phoenix-inductions-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692395302373:android:b2622e5aec837a548a230c",
+        "android_client_info": {
+          "package_name": "com.example.phoenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692395302373-ruh4f29786k8mr8v0nni01jcevt4o5gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSO6aPTdpwEBcMjSgRUJDcQAzTjLxGRMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692395302373-ruh4f29786k8mr8v0nni01jcevt4o5gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
